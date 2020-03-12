@@ -1,0 +1,32 @@
+.price-box{
+    text-align: center;
+}
+
+.price-box span {
+    padding: 0 12px;
+}
+
+.price-strike
+{
+    text-decoration: line-through;
+    color: #7d7777;
+    font-weight: 700;
+}
+
+.price-offer{
+    color: green;
+    font-weight: 700;
+}
+
+.card-footer{
+    text-align: center;
+}
+
+.card-footer button{
+    background: #ffc92f;
+    color: black;
+    font-weight: 800;
+    padding: 10px 15px;
+    border: 0;
+    border-radius: 20px;
+}

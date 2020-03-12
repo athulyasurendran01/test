@@ -1,0 +1,13 @@
+.filter-footer {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.filter-footer button {
+    background: #4c67ff;
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border: 0;
+    border-radius: 20px;
+}
